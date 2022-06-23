@@ -18,6 +18,6 @@ if (operator === "+") {
     let modulus = first % second;
     alert(modulus);
 } else (
-    alert("Invalid Inputs");
+    alert("Invalid Input");
 }
     
